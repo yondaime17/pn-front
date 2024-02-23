@@ -1,0 +1,22 @@
+.product-details{
+    margin-top: 50px;
+}
+
+.gallery{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.description{
+    margin: 50px;
+    width: auto;
+    text-align: center;
+}
+
+.gallery img{
+    width: 150px;
+    height: 200px;
+}

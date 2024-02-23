@@ -1,0 +1,12 @@
+.cart{
+    padding: 25px;
+}
+
+.cart img{
+    width: 50px;
+    height: 70px;
+}
+
+.cart-item{
+    margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+li{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+img{
+    width: 100%;
+    height: 200px;
+}
+
+p{
+font-weight: bold;
+}
+
+h3{
+    text-align: center;
+}
+
+
